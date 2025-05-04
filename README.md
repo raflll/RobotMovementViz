@@ -63,7 +63,3 @@ The path file should be a CSV with the following columns:
 - PyQt6
 - PyQtGraph
 - NumPy
-
-## License
-
-[Your chosen license] 
