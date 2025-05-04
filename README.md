@@ -14,8 +14,8 @@ A Python-based 3D visualization tool for robot path planning and quaternion visu
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone git@github.com:raflll/RobotMovementViz.git
+cd RobotMovementViz
 ```
 
 2. Create and activate a virtual environment:
